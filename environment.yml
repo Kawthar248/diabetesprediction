@@ -1,0 +1,14 @@
+name: diabetesprediction
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip 
+  - pip : 
+    - pandas 
+    - jupyter
+    - seaborn 
+    - scikit-learn 
+    - keras 
+    - tensorflow
+    - numpy
